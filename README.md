@@ -13,6 +13,7 @@
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
 * Pebble Beach
+* Big Bear Lake
 * Newport Beach
 * Balboa Beach, Newport Beach
 * Crystal Cove State Beach, Newport Beach

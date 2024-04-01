@@ -2,6 +2,7 @@
 * Lake Tahoe
 * Emerald Bay Beach, South Lake Tahoe
 * Mammoth Lakes
+* Shasta Lake
 * Half Moon Bay State Beach, Half Moon Bay
 * Panther Beach, Santa Cruz
 * Natural Bridges States Beach, Santa Cruz

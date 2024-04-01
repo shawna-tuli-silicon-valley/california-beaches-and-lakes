@@ -1,5 +1,3 @@
-# BEACHES AND LAKES
-
 * Ocean Beach, San Francisco
 * Lake Tahoe
 * Emerald Bay Beach, South Lake Tahoe

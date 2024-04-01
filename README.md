@@ -16,7 +16,7 @@
 * Pebble Beach
 * Big Bear Lake
 * Newport Beach
-* Balboa Beach, Newport Beach
+* Balboa Pier Beach, Newport Beach
 * Crystal Cove State Beach, Newport Beach
 * Laguna Beach
 * Thousand Steps Beach, Laguna Beach

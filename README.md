@@ -10,6 +10,7 @@
 * Twin Lakes State Beach, Santa Cruz
 * Santa Cruz Beach, Santa Cruz
 * Davenport Beach, Davenport
+* Shoreline Lake, Mountain View
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
 * Pebble Beach

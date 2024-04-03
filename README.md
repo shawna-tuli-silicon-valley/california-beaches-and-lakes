@@ -6,6 +6,7 @@
 * Mammoth Lakes
 * Shasta Lake
 * Half Moon Bay State Beach, Half Moon Bay
+* Garden of Eden, Santa Cruz
 * Panther Beach, Santa Cruz
 * Natural Bridges States Beach, Santa Cruz
 * Lighthouse Field State Beach, Santa Cruz 

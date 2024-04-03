@@ -1,3 +1,5 @@
+* Point Reyes National Seashore, Marin
+* Sausalito Beach, Sausalito
 * Ocean Beach, San Francisco
 * Lake Tahoe
 * Emerald Bay Beach, South Lake Tahoe
@@ -24,3 +26,4 @@
 * Playa Del Rey Beach, Marina Del Rey
 * Malibu Beach, Malibu
 * Venice Beach, Venice
+* La Jolla Shores Beach, La Jolla

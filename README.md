@@ -17,6 +17,7 @@
 * Shoreline Lake, Mountain View
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
+* Glass Beach, Fort Bragg
 * Pebble Beach
 * Big Bear Lake
 * Newport Beach

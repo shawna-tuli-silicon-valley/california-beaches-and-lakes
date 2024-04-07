@@ -15,6 +15,7 @@
 * Santa Cruz Beach, Santa Cruz
 * Davenport Beach, Davenport
 * Shoreline Lake, Mountain View
+* Vasona Lake, Los Gatos
 * Almaden Lake, San Jose
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea

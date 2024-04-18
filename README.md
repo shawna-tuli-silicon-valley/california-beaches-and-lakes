@@ -31,4 +31,5 @@
 * Playa Del Rey Beach, Marina Del Rey
 * Malibu Beach, Malibu
 * Venice Beach, Venice
+* Santa Monica State Beach, Santa Monica
 * La Jolla Shores Beach, La Jolla

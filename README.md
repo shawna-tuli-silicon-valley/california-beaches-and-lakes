@@ -20,7 +20,7 @@
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
 * Glass Beach, Fort Bragg
-* Pebble Beach
+* Pebble Beach, Monterey Peninsula
 * Big Bear Lake
 * Newport Beach
 * Balboa Pier Beach, Newport Beach

@@ -1,5 +1,6 @@
 * Point Reyes National Seashore, Marin
 * Sausalito Beach, Sausalito
+* Aquatic Park Cove, San Francisco
 * Ocean Beach, San Francisco
 * Lake Tahoe
 * Emerald Bay Beach, South Lake Tahoe

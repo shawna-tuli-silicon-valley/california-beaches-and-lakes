@@ -21,6 +21,7 @@
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
 * Glass Beach, Fort Bragg
+* Monterey State Beach, Monterey
 * Pebble Beach, Monterey Peninsula
 * Big Bear Lake
 * Newport Beach

@@ -19,6 +19,7 @@
 * Vasona Lake, Los Gatos
 * Almaden Lake, San Jose
 * Capitola Beach, Capitola
+* Garrapata State Park Beach, Big Sur
 * Carmel Beach, Carmel-by-the-Sea
 * Glass Beach, Fort Bragg
 * Monterey State Beach, Monterey

@@ -20,7 +20,8 @@
 * Almaden Lake, San Jose
 * Capitola Beach, Capitola
 * Garrapata State Park Beach, Big Sur
-* Carmel Beach, Carmel-by-the-Sea
+* Point Lobos State Natural Reserve, Carmel-By-The-Sea
+* Carmel Beach, Carmel-By-The-Sea
 * Glass Beach, Fort Bragg
 * Monterey State Beach, Monterey
 * Pebble Beach, Monterey Peninsula

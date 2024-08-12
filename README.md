@@ -30,6 +30,9 @@
 * Newport Beach
 * Balboa Pier Beach, Newport Beach
 * Crystal Cove State Beach, Newport Beach
+* Corona Del Mar State Beach, Newport Beach
+* Seal Beach
+* Dana Point
 * Laguna Beach
 * Thousand Steps Beach, Laguna Beach
 * Huntington Beach

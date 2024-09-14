@@ -16,6 +16,7 @@
 * Twin Lakes State Beach, Santa Cruz
 * Santa Cruz Beach, Santa Cruz
 * Davenport Beach, Davenport
+* Shark Fin Cove, Davenport
 * Shoreline Lake, Mountain View
 * Vasona Lake, Los Gatos
 * Almaden Lake, San Jose

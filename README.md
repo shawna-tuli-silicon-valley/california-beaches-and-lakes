@@ -17,6 +17,7 @@
 * Santa Cruz Beach, Santa Cruz
 * Davenport Beach, Davenport
 * Shark Fin Cove, Davenport
+* Don Edwards San Francisco Bay National Wildlife Refuge, Fremont
 * Shoreline Lake, Mountain View
 * Vasona Lake, Los Gatos
 * Almaden Lake, San Jose

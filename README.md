@@ -8,6 +8,7 @@
 * Shasta Lake
 * Rio Del Mar Beach, Aptos
 * Half Moon Bay State Beach, Half Moon Bay
+* Seabright Beach, Santa Cruz
 * West Cliff Drive, Santa Cruz
 * Garden of Eden, Santa Cruz
 * Panther Beach, Santa Cruz

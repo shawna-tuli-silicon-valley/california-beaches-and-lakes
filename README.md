@@ -3,6 +3,7 @@
 * Aquatic Park Cove, San Francisco
 * Ocean Beach, San Francisco
 * Blue Heron Lake, San Francisco
+* Folsom Lake, Sacramento
 * Lake Tahoe
 * Emerald Bay Beach, South Lake Tahoe
 * Mammoth Lakes

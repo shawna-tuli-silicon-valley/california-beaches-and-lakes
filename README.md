@@ -8,6 +8,7 @@
 * Emerald Bay Beach, South Lake Tahoe
 * Mammoth Lakes
 * Shasta Lake
+* Seascape Beach, Aptos
 * Rio Del Mar Beach, Aptos
 * Half Moon Bay State Beach, Half Moon Bay
 * Seabright Beach, Santa Cruz
